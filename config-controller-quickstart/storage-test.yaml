@@ -4,4 +4,4 @@ metadata:
   name: bucket-in-disallowed-location-test
   namespace: config-control
 spec:
-  location: asia-southeast1
+  location: us-central1
