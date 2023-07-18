@@ -5,3 +5,4 @@ metadata:
   namespace: config-control
 spec:
   location: us-central1
+  uniformBucketLevelAccess: true
